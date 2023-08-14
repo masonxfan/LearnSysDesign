@@ -1,0 +1,4 @@
+首先是64位的
+41个给到timestamp
+换成epochtime呗
+12位sequence能给到4096 new IDs per millisecond
